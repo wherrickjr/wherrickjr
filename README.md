@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on earning my data science certificate at codeup
 🌱 I’m currently learning all the basics of github, python, and SQL
-👯 I'm hoping to get good at this coding stuff and work with other people to create things
+👯 I'm hoping to get good at using data to come up with solutions for businesses and government agencies
 
 😄 Pronouns: He/Him/His
 ⚡ Fun fact: I like to sing, dance, and play music
