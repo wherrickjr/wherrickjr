@@ -7,4 +7,4 @@
 😄 Pronouns: He/Him/His
 ⚡ Fun fact: I like to sing, dance, and play music
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kattni)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wherrickjr)
